@@ -27,7 +27,7 @@ parser = argparse.ArgumentParser(
     description="Temporal KGQA"
 )
 parser.add_argument(
-    '--tkbc_model_file', default='ex_tcomplex.ckpt', type=str,
+    '--tkbc_model_file', default='TKGE_model.ckpt', type=str,
     help="Pretrained tkbc model checkpoint"
 )
 parser.add_argument(
