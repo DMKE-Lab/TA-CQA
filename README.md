@@ -8,15 +8,11 @@ Install TA-CQA requirements
 
 `conda install --file requirements.txt -c conda-forge`
 
-## Datasets Download
+## Datasets and TKGE-model Download
 
-#### CronQuestions : Download and unzip ``data.zip`` in the root directory.
+Download datasets CronQuestions and TimeQuestions, pre-trained embedding model TKGE-models in the root directory.
 
-Drive: https://drive.google.com/drive/folders/1aS2s5sZ0qlDpGZ9rdR7HcHym23N3pUea?usp=sharing.
-
-#### TimeQuestions :
-
-https://qa.mpi-inf.mpg.de/exaqt/TimeQuestions.zip
+Drive: https://drive.google.com/drive/folders/1t5PYbWNiro3qw1GJ-ra3GTbWR4oRtSC4?usp=sharing
 
 ## Running
 
