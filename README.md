@@ -8,7 +8,7 @@ Install TA-CQA requirements
 
 `conda install --file requirements.txt -c conda-forge`
 
-## Dataset and pretrained models download
+## Datasets Download
 
 #### CronQuestions : Download and unzip ``data.zip`` in the root directory.
 
