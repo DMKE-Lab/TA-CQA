@@ -21,4 +21,5 @@ https://qa.mpi-inf.mpg.de/exaqt/TimeQuestions.zip
 ## Running
 
 `cd TA-CQA`
+
 `python train_qa_model.py`
