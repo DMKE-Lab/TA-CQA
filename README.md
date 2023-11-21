@@ -18,4 +18,7 @@ Drive: https://drive.google.com/drive/folders/1aS2s5sZ0qlDpGZ9rdR7HcHym23N3pUea?
 
 https://qa.mpi-inf.mpg.de/exaqt/TimeQuestions.zip
 
+## Running
 
+`cd TA-CQA`
+`python train_qa_model.py`
